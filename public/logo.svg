@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="FECC Candidate Onboarding chatbot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="0.55" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="url(#bg)"/>
+  <!-- antenna -->
+  <line x1="64" y1="22" x2="64" y2="36" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="64" cy="19" r="6" fill="#facc15"/>
+  <!-- ears -->
+  <rect x="18" y="56" width="10" height="22" rx="5" fill="#e0e7ff"/>
+  <rect x="100" y="56" width="10" height="22" rx="5" fill="#e0e7ff"/>
+  <!-- head (speech bubble) -->
+  <path d="M38 36h52a14 14 0 0 1 14 14v30a14 14 0 0 1-14 14H62l-16 12v-12h-8a14 14 0 0 1-14-14V50a14 14 0 0 1 14-14z" fill="#ffffff"/>
+  <!-- face screen -->
+  <rect x="36" y="48" width="56" height="32" rx="12" fill="#1e1b4b"/>
+  <!-- eyes -->
+  <circle cx="52" cy="62" r="6" fill="#38bdf8"/>
+  <circle cx="76" cy="62" r="6" fill="#38bdf8"/>
+  <!-- smile -->
+  <path d="M55 71q9 6 18 0" fill="none" stroke="#a5b4fc" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
